@@ -1,0 +1,87 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "77",
+                        "endOffsets": "90"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "692",
+                        "endColumns": "57",
+                        "endOffsets": "745"
+                    }
+                },
+                {
+                    "source": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,6,5,11,10,3,14,13,9,8,2,17,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,251,193,430,391,141,523,474,347,293,68,622,569",
+                        "endColumns": "51,40,57,38,38,50,44,48,43,53,72,46,52",
+                        "endOffsets": "63,287,246,464,425,187,563,518,386,342,136,664,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,140,198,237,276,327,372,421,465,519,592,639",
+                        "endColumns": "51,32,57,38,38,50,44,48,43,53,72,46,52",
+                        "endOffsets": "102,135,193,232,271,322,367,416,460,514,587,634,687"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/TravisMonillas/Documents/Android Studio Projects/Project7_TipCalculator/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}
